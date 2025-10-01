@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения" id="f2478bd3-6e20-431f-921d-efd2bb1a0ac1" configVersion="5f72d1a6dc9916e3166699d5e9ac4ff32fc52479"/>
+		<Metadata name="Catalog.Номенклатура" id="e682bfa5-2280-4452-b5b7-318dce3ed945" configVersion="b74ab8bd9e40ff227f4aba127e0d36981c181853"/>
+		<Metadata name="Catalog.ОбъектыСтроительства" id="10cb152e-00f9-499c-876f-e5d64e632442" configVersion="229beaf6b0b42d542eddfabe78c7f4e582e4ad63"/>
+		<Metadata name="Catalog.ПравилаСопоставленияДляИИ" id="62095104-1416-4836-97d3-c60aa330b75a" configVersion="5fe6327b7de274e54153f828a5d1194843eefcbf">
+			<Metadata name="Catalog.ПравилаСопоставленияДляИИ.Attribute.ГруппаКласификатора" id="9ea71b96-db9e-464e-8d3a-b70d5828016f"/>
+			<Metadata name="Catalog.ПравилаСопоставленияДляИИ.Attribute.ТекстПравила" id="a61aacab-8d28-4f86-baa3-9d245042cccf"/>
+		</Metadata>
+		<Metadata name="Catalog.бит_СтатьиОборотов" id="2ce01ea9-39bc-49ac-9fa3-6088ca94e301" configVersion="5354a596f3ef4febea9982b912fff5cd3e1294fd"/>
+		<Metadata name="Catalog.гк_КлассификаторВидовРабот" id="c14217ef-76b6-4a7a-90af-9a51468f2e6a" configVersion="133837c4588c1bdd3a3e58aaa833bbf3d191f59c"/>
+		<Metadata name="CommonModule.ис_НастройкиИнструментов" id="c95272c7-3b68-4984-9abe-74d4df726ad1" configVersion="da4a6ab94f6ea7a84d67f96f20aa03b9e80f92b1"/>
+		<Metadata name="CommonModule.ис_НастройкиИнструментов.Module" id="c95272c7-3b68-4984-9abe-74d4df726ad1.0" configVersion="02254167bebf611064cacc36efbe9a2b4589366a"/>
+		<Metadata name="Configuration.ИнструментыСметчика" id="ac7e211f-fae1-4f2f-9af5-805c2b7f73f9" configVersion="766c9e76c43459865d2963cb7df569b29ee79c91"/>
+		<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации" id="5f5a4ae1-61b2-461e-a29b-dd0bbda6efab" configVersion="b4438b8ab7292750034a7fadd1c67fa352991825">
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.Позиция" id="02755969-feef-4f4f-8369-09e4b90e999f"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.Количество" id="19b950f9-2b16-4f31-9b72-f2ed514de01c"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.СписокРаботИКатегорий.Attribute.ЕдиницаИзмерения" id="1fc79908-ae48-4a5f-8399-2146f63c891e"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Attribute.Токен" id="26c5e019-757c-4336-8a7a-138dd33d9c36"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.Категории.Attribute.Категория" id="28f38c92-4ea9-44b6-ad40-1a16ba971b75"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.СписокРаботИКатегорий.Attribute.ВидРаботы" id="2f9046ca-37e0-4154-a504-a792a178dd94"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.ГоловнаяНоменклатура" id="316703e1-8ecf-4d30-9ee4-ab11ef8c504a"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.СписокРаботИКатегорий.Attribute.КатегорияНаименование" id="3216375b-3bcb-4fef-90c7-dbf9b35ce470"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.СписокРаботИКатегорий" id="3957c470-8b8c-4a86-b309-793d561584d2"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.ВидРаботы" id="44af11dc-63a6-4e53-a16b-96c059ac9d90"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Attribute.МодельЗапроса" id="46e85298-417a-469a-adfc-7013f0856c2b"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.СписокРаботИКатегорий.Attribute.Категория" id="49b653b0-52dd-481b-b1ce-4b2327b23ca5"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.НаименованиеПозиции" id="4c59c7b1-4d18-43bb-ad80-29a077a1b94f"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.ЦенаИндикатив" id="5fbf80df-fe8f-4386-8848-d2c9558b8a78"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.Помещение" id="6201fafe-bcc4-4607-a036-22d0b3ed275d"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Attribute.Расходники" id="7f7928c4-f34e-46c8-b827-6e29ba414cc8"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.ТипПомещения" id="7f9e543a-56a7-494c-8685-f9db37d866ef"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора" id="834c07ba-98eb-4ed7-95b7-f2b32c6a6d82"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.ТипМарка" id="861d4fad-ef31-4764-b30f-7b6768f311d3"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.Примечание" id="8acb0e61-f495-4ebf-9fe0-ceeea42aac1c"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.Категории" id="8e5f164f-806d-46c1-abe1-4ea0a8bd8e9f"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.ОбъектСтроительства" id="947b7ce4-a45d-4554-89de-8b137e639ad9"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Attribute.ШаблонЗапроса" id="94ba984b-6bc2-4cf3-b425-cec1be3afb48"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Attribute.ПутьКФайлуСпецификации" id="a7eaa6b6-7012-4a7f-87fd-25b615edbb97"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.Кодификатор" id="ae863c7b-fad3-441f-b65a-059c13d39a29"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.СписокРаботИКатегорий.Attribute.ЕдиницаИзмеренияНаименование" id="b43d25b0-1f9c-49ba-a635-0a804693f95d"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Attribute.ТекстыЗапросовКИИ" id="b696592a-0413-423c-b050-2ee78c2a8d0b"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.ЕдиницаИзмерения" id="bba848ad-e050-4a18-a036-bb4c565bcdf9"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Attribute.ПапкаРабот" id="bc839bbc-21d8-4201-8909-89db6634aa55"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.ЦенаРабот" id="bcc1c695-5afa-4b64-a210-d3fb3a679a83"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.КодИзделия" id="c4b60fae-7e40-4d6a-8711-e656ad90d3d8"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.Уверенность" id="c4c9a80f-9fcb-42b0-9779-f9d4b39f43b1"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.СписокРаботИКатегорий.Attribute.ВидРаботыНаименование" id="c8adb86d-9a1e-4c0f-be4e-cd4a85cbe73d"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.ВидРаботыНаименование" id="d3f25aa5-a95f-4c91-a726-f5e1daac6603"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.Завод" id="d83f57d3-af8f-4cee-a620-c678142d96cc"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.КодСтатьи" id="d9bfb59d-2c46-4042-8e70-5af46920b80c"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Attribute.РазмерПакета" id="daf48161-8920-4ebc-8367-57a2a20896fe"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.СтоимостьПрочихМатериалов" id="e3825695-6f7c-4dd0-8ccd-acf41937a8bd"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.КодВидаРаботы" id="e3bcfd0f-ef11-422d-af2b-715124644d57"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.TabularSection.РезультатыПодбора.Attribute.Категория" id="ec39747d-3a50-4487-be1f-98f553360e8b"/>
+			<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Command.СопоставлениеРаботПоСпецификации" id="fae8401b-fdfa-4c70-9b41-8317c3b14524"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Command.СопоставлениеРаботПоСпецификации.CommandModule" id="fae8401b-fdfa-4c70-9b41-8317c3b14524.2" configVersion="d084d6c2e686011ac94c8d6e6a7efb998c986db9"/>
+		<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Form.Форма" id="3c5d1b23-d778-4980-85f2-f2b16c90de09" configVersion="293967af3d585be61e61726bd5900b5d26fe1485"/>
+		<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Form.Форма.Form" id="3c5d1b23-d778-4980-85f2-f2b16c90de09.0" configVersion="5809debaff44faa2cfb6cd5081ba2643a16225f0"/>
+		<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Form.ФормаЗагрузкиИзТабДок" id="c61c6fd5-179f-4b20-b83d-bdd83d3d003e" configVersion="d368cfbe870c233a888a96b29bd9d7b2ab34d38b"/>
+		<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Form.ФормаЗагрузкиИзТабДок.Form" id="c61c6fd5-179f-4b20-b83d-bdd83d3d003e.0" configVersion="ffa56e2e160b7f34e12a454c394c4cf7bcbceb6d"/>
+		<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.ObjectModule" id="5f5a4ae1-61b2-461e-a29b-dd0bbda6efab.0" configVersion="f0c8a430aa30364ce28ec3c1b8031bcbaaf74df2"/>
+		<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Template.ШапкаЗагрузкиДанных" id="a058f9f1-646e-476e-982a-18e1ea23a8d7" configVersion="d6f77bbf7c0db34f1db44542ffa1d7570ebe9b35"/>
+		<Metadata name="DataProcessor.ис_СопоставлениеРаботПоСпецификации.Template.ШапкаЗагрузкиДанных.Template" id="a058f9f1-646e-476e-982a-18e1ea23a8d7.0" configVersion="415adc76f5282dd2d434c9ebc5094bca23c13485"/>
+		<Metadata name="Language.Русский" id="b35b73d7-5073-4527-a591-de7105bc1512" configVersion="c9b29d9d1188f646dc9172c50d9294dfbe64bf54"/>
+		<Metadata name="Role.ис_ИспользованиеИнструментовСметчика" id="77386ca0-2e9b-4273-8566-430c6c8d36c2" configVersion="aca12cea8399d3d8c2147e87a66d86ae603272ea"/>
+		<Metadata name="Subsystem.гк_Строительство" id="859a041a-3e95-4bff-9365-9c9572d0b0a2" configVersion="83305d757bfb7ca1343c0dfa3237baaa88dc697c"/>
+		<Metadata name="Subsystem.гк_Строительство.Subsystem.ис_ИнструментыСметчика" id="1d1a2c75-7665-41cb-a3bc-2a5d6fe8c658" configVersion="ab8f33950fbffdff842f5ed747e9d824caf8e2ae"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

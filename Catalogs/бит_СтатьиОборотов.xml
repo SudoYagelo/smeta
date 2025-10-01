@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Catalog uuid="2ce01ea9-39bc-49ac-9fa3-6088ca94e301">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.бит_СтатьиОборотов" category="Object">
+				<xr:TypeId>784b762d-a9dc-414b-b7e1-5025664486d8</xr:TypeId>
+				<xr:ValueId>0bf676a4-2a8f-437e-b087-95f1e1302ec8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.бит_СтатьиОборотов" category="Ref">
+				<xr:TypeId>a270bdc3-d638-44d6-a9d9-c23e0eff00a8</xr:TypeId>
+				<xr:ValueId>60143ddf-7368-4064-bff3-62db516eb56a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.бит_СтатьиОборотов" category="Selection">
+				<xr:TypeId>55ccde86-6091-46fc-aa16-df7f36310a45</xr:TypeId>
+				<xr:ValueId>25f31069-f1a1-49b1-8fde-cf234bdc05bd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.бит_СтатьиОборотов" category="List">
+				<xr:TypeId>ff9f0653-f602-4fbc-9c27-74d6ded75a74</xr:TypeId>
+				<xr:ValueId>fab84407-0b25-4e7a-b576-305ae52e1364</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.бит_СтатьиОборотов" category="Manager">
+				<xr:TypeId>4c3510fc-d717-45d7-bc6e-550247026a8f</xr:TypeId>
+				<xr:ValueId>2cde2667-0a02-490e-93d5-bffc8154f751</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>бит_СтатьиОборотов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>0bd3da97-af43-4f9e-a955-071dd359ba10</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
